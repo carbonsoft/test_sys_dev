@@ -1,8 +1,8 @@
 # Тестовые вопросы
 
-## Сети в Linux
+## Сети и виртуализация в Linux
 
-Две виртуальные машины c CentOS 6.7 на борту находятся в одном бридже br1. Назовём их X и Y.
+Виртуальная машина KVM и LXC-контейнер c CentOS 6.7 на борту находятся в одном бридже br1. Назовём их X (KVM) и Y (LXC).
 
     [root@x ~]# ip -4 a show eth1
     3: eth1: <BROADCAST,MULTICAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
