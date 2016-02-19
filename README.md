@@ -2,7 +2,7 @@
 
 ## Сети в Linux
 
-Две виртуальные машины находятся в одном бридже br1. Назовём их X и Y.
+Две виртуальные машины c CentOS 6.7 на борту находятся в одном бридже br1. Назовём их X и Y.
 
     [root@x ~]# ip -4 a show eth1
     3: eth1: <BROADCAST,MULTICAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
@@ -25,4 +25,6 @@
     --- 10.30.30.1 ping statistics ---
     1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 3000ms
 
-Вопрос: из-за чего они недоступны?
+Вопросы:
+- из-за чего они недоступны?
+- как это исправить?
