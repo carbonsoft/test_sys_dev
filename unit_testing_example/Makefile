@@ -1,4 +1,3 @@
-CC = clang
 CFLAGS_EXTRA := -Wall -Wextra -Wpedantic
 objects := func.o
 LFLAGS := -Llibs -lfunc
