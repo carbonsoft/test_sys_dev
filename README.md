@@ -4,3 +4,8 @@
 
 - [Задание](/billing_developer)
 - [Вакансия](https://ekaterinburg.hh.ru/vacancy/20279596)
+
+## Сетевой-разработчик в Carbon Reductor
+
+- [Задание](/reductor_developer)
+- [Вакансия](https://ekaterinburg.hh.ru/vacancy/20221315)
